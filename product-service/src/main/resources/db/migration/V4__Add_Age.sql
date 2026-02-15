@@ -1,0 +1,2 @@
+ALTER TABLE dummy
+    ADD age INT NULL;
